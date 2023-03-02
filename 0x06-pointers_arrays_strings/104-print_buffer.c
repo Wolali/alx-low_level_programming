@@ -10,9 +10,7 @@
 
 void print_buffer(char *b, int size)
 {
-	int i;
-	int j;
-	int o;
+	int o,j,i;
 
 	o = 0;
 
